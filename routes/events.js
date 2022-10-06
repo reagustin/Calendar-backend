@@ -40,7 +40,7 @@ router.put(
     ],
     actualizarEvento)
 
-// Obtener eventos
+// Borrar eventos
 router.delete('/:id', eliminarEvento)
 
 
